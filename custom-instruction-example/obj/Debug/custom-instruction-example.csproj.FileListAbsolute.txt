@@ -1,0 +1,8 @@
+C:\Users\h-akanuma\source\repos\custom-instruction-example\custom-instruction-example\bin\Debug\custom-instruction-example.exe
+C:\Users\h-akanuma\source\repos\custom-instruction-example\custom-instruction-example\bin\Debug\custom-instruction-example.pdb
+C:\Users\h-akanuma\source\repos\custom-instruction-example\custom-instruction-example\obj\Debug\custom-instruction-example.csproj.AssemblyReference.cache
+C:\Users\h-akanuma\source\repos\custom-instruction-example\custom-instruction-example\obj\Debug\custom_instruction_example.Properties.Resources.resources
+C:\Users\h-akanuma\source\repos\custom-instruction-example\custom-instruction-example\obj\Debug\custom-instruction-example.csproj.GenerateResource.cache
+C:\Users\h-akanuma\source\repos\custom-instruction-example\custom-instruction-example\obj\Debug\custom-instruction-example.csproj.CoreCompileInputs.cache
+C:\Users\h-akanuma\source\repos\custom-instruction-example\custom-instruction-example\obj\Debug\custom-instruction-example.exe
+C:\Users\h-akanuma\source\repos\custom-instruction-example\custom-instruction-example\obj\Debug\custom-instruction-example.pdb
